@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/tmp/missing_details.txt:*)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
